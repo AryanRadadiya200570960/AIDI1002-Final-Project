@@ -5,3 +5,4 @@ In this project we have implemented the methodologies used in "Stock Market Pred
 
 ## Research Paper
 <h3>Title: <a href= "https://dl.acm.org/doi/abs/10.1145/3512388.3512444">Stock Market Prediction Using Support Vector Regressor with Radial Basis Function Kernel</a></h3>
+In this research paper they have performed Support Vector Regressor method on data from Indonesia Stock Exchange. 
