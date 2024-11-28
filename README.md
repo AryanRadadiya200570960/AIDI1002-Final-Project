@@ -54,5 +54,11 @@ We have first tried to replicate the code and provide the same output, then we i
     <li>Then you can run the code in either Visual Studeio code or Anaconda.</li>
 </ol>
 
+## Project files
+<ul>
+    <li></li>
+    <li></li>
+</ul>
+
 ## Conclusion
 We have replicated the code and implemented it, as well as we have performed LSTM model with the new and updated data where we found that LSTM is more effective model for the data type like stock market data. Unlike treditional methods, LSTM model can analyse complex patterns and historic data like time series data or stock market data.
