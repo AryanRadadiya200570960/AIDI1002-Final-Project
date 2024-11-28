@@ -56,8 +56,8 @@ We have first tried to replicate the code and provide the same output, then we i
 
 ## Project files
 <ul>
-    <li>In **`Research code.ipynb`**</li>
-    <li></li>
+    <li><b>Research code.ipynb</b>: In this five we have replicated the code that the research has implemented.</li>
+    <li><b>Final Project Updated.ipynb</b>: In this file we have used new and latest dataset and implemented different model.</li>
 </ul>
 
 ## Conclusion
