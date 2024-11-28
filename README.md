@@ -8,7 +8,7 @@ In this project we have implemented the methodologies used in "Stock Market Pred
 <h3>Orignial Code Link: <a href= "https://github.com/K6RTCS/Stock-Market-Prediction-RBF">Source Code</a></h3>
 In this research paper they have performed Support Vector Regressor method on data from Indonesia Stock Exchange.
 
-## Original Code Implimentation
+<!---## Original Code Implimentation
 In the original code they have sourced the data from yahoo finance using yahoo finance API, and they have used data from 2010 till 2021. They have tried to implement Support vector regression on the data by splitting the data into two sets one train set which includes data from 2010  to 2019 and the other test set includes data from 2020 to 2021.
 ### For the train set results were:
 <ul>
@@ -38,7 +38,7 @@ We have first tried to replicate the code and provide the same output, then we i
     <li><b>Root Mean Square Error:</b>141.40</li>
     <li><b>R2:</b>0.88</li>
     <li><b>Mean Absolute Error:</b>116.50</li>
-</ul>
+</ul>--->
 
 ## Instruction of using code
 <ol>
@@ -53,3 +53,6 @@ We have first tried to replicate the code and provide the same output, then we i
     </ul>
     <li>Then you can run the code in either Visual Studeio code or Anaconda.</li>
 </ol>
+
+## Conclusion
+We have replicated the code and implemented it, as well as we have performed LSTM model with the new and updated data where we found that LSTM is more effective model for the data type like stock market data. Unlike treditional methods, LSTM model can analyse complex patterns and historic data like time series data or stock market data.
