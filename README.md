@@ -25,4 +25,31 @@ In the original code they have sourced the data from yahoo finance using yahoo f
 </ul>
 
 ## Updating and implementing different model
-We have first tried to replicate the code and provide the same output, then we implemented the Long short-term memory (LSTM) model and we also updated the data till 2024, so in the new code we used data from 2015 till 2024. Also, we tried to implement the new code the same way as the research, we created two sets of data and implemented the LSTM model.
+We have first tried to replicate the code and provide the same output, then we implemented the Long short-term memory (LSTM) model and we also updated the data till 2024, so in the new code we used data from 2015 till 2024. Also, we tried to implement the new code the same way as the research, we created two sets of data and implemented the LSTM model, And our results were:
+### For the train set results were:
+<ul>
+    <li><b>Root Mean Square Error:</b>94.25</li>
+    <li><b>R2:</b>0.97</li>
+    <li><b>Mean Absolute Error:</b>79.30</li>
+</ul>
+
+### For the test set results were:
+<ul>
+    <li><b>Root Mean Square Error:</b>141.40</li>
+    <li><b>R2:</b>0.88</li>
+    <li><b>Mean Absolute Error:</b>116.50</li>
+</ul>
+
+## Instruction of using code
+<ol>
+    <li>You must have Python 3.5 or higher</li>
+    <li>Need to install following libraries:</li>
+    <ul>
+        <li>Pandas</li>
+        <li>Numpy</li>
+        <li>yFinance</li>
+        <li>Tesorflow</li>
+        <li>Scikit-learn</li>
+    </ul>
+    <li>Then you can run the code in either Visual Studeio code or Anaconda.</li>
+</ol>
